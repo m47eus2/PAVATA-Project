@@ -5,6 +5,7 @@ The goal of the project is to make a sub 250g FPV Drone with custom 3D printed f
 
 ![Pavata Drone](docs/pavata.jpg)
 ![3D printed frame](docs/pavata-frame.jpg)
+![Pavata 3D model](docs/model3d.png)
 
 ## Frame
 Drone uses custom frame project made in Autodesk Fusiun and 3D printed on Prusa i3MK3S+ from ASA material. Frame is based on dead-cat shape with multiple triangle based porters. Thanks to it frame is stiff and light. 
