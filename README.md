@@ -1,7 +1,7 @@
 # PAVATA-Project
 
 ## Goal of the project - SUCCESSED
-The goal of the project is to make a sub 250g FPV Drone with custom 3D printed frame with analog video system, long flight time, hight video and radio link range and affordable price.
+The goal of the project is to make a sub 250g FPV Drone with custom 3D printed frame with analog video system, long flight time, hight video and radio link range and affordable price. Using custom 2S battery pack made with 18650 high current Li-Ion cells.
 
 ![Pavata Drone](docs/pavata.jpg)
 ![3D printed frame](docs/pavata-frame.jpg)
