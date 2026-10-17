@@ -1,6 +1,6 @@
 # PAVATA-Project
 
-## Goal of the project - SUCCESSED
+## Goal of the project
 The goal of the project is to make a sub 250g FPV Drone with custom 3D printed frame with analog video system, long flight time, hight video and radio link range and affordable price. Using custom 2S battery pack made with 18650 high current Li-Ion cells.
 
 ![Pavata Drone](docs/pavata.jpg)
@@ -17,7 +17,7 @@ Drone uses GEPRC GEP-F722-45A AIO V2, which is single board flight controller wi
 To achive long fly time drone is powered with custom Li-ion 18650 2S pack made with high current Molicel INR 18650 - P28A 2800mAh cells. 
 
 ## Motors
-Because of high efficiency, small weight and affordable price I choose DarwinFPV 1504-3800KV BLDC motors with 2 blade 4 inch GEMFAN 4019 propellers. Unfortunately the was need of designing custom 3D printed holders to connect them to choosen BLDC motors.
+Because of high efficiency, small weight and affordable price I choose DarwinFPV 1504-3800KV BLDC motors with 2 blade 4 inch GEMFAN 4019 propellers. Unfortunately, the motors have too low a KV rating, and the drone lacks power towards the end of the battery. I need to replace them with higher-KV motors.
 
 ## Radio link
 As the radio link quadrocopter uses open source, super high range ExpressLRS 2.4GHz protocol. Thanks to it drone can be controlled with multiple popular controllers with high prize ranges - from affordable to proffesional.
